@@ -3,7 +3,10 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import chromadb
 
+import os
 load_dotenv()
+if "OPENAI_API_KEY" in __import__("streamlit").secrets:
+    os.environ["OPENAI_API_KEY"] = __import__("streamlit").secrets["OPENAI_API_KEY"]
 client = OpenAI()
 chroma = chromadb.PersistentClient(path="vectorstore")
 collection = chroma.get_or_create_collection("nosai")

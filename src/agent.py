@@ -3,7 +3,10 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from src.retriever import rechercher
 
+import os
 load_dotenv()
+if "OPENAI_API_KEY" in __import__("streamlit").secrets:
+    os.environ["OPENAI_API_KEY"] = __import__("streamlit").secrets["OPENAI_API_KEY"]
 client = OpenAI()
 
 SYSTEM_PROMPT = """Tu es NosAI, un expert en parfumerie de niche.
