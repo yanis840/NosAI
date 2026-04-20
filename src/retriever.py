@@ -16,8 +16,11 @@ collection = chroma.get_or_create_collection("nosai")
 
 
 def rechercher(question, n_resultats=6):
+    import streamlit as st
     from openai import OpenAI
-    client = OpenAI()
+    
+    api_key = st.secrets.get("OPENAI_API_KEY") or os.environ.get("OPENAI_API_KEY")
+    client = OpenAI(api_key=api_key)
 
     response = client.embeddings.create(
         input=question,

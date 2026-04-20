@@ -32,8 +32,11 @@ Ton ton : pédagogique, direct, honnête. Jamais condescendant."""
 
 
 def repondre(question):
+    import streamlit as st
     from openai import OpenAI
-    client = OpenAI()
+    
+    api_key = st.secrets.get("OPENAI_API_KEY") or os.environ.get("OPENAI_API_KEY")
+    client = OpenAI(api_key=api_key)
 
     resultats = rechercher(question, n_resultats=6)
     chunks = resultats["documents"][0]
