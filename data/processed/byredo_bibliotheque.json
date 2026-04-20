@@ -1,0 +1,70 @@
+{
+  "maison": "Byredo",
+  "parfum": "Bibliothèque",
+  "annee": 2017,
+  "format": "EDP",
+  "concentration": null,
+  "parfumeur": null,
+  "prix": {
+    "50ml": 170,
+    "100ml": 245,
+    "200ml": null
+  },
+  "famille_olfactive": "Boisée",
+  "notes": {
+    "tete": ["Prune", "Cannelle"],
+    "coeur": ["Accord de cuir", "Violette"],
+    "fond": ["Bois de bouleau", "Patchouli", "Vanille"]
+  },
+  "description_marque": "Bibliothèque se veut un sanctuaire olfactif, un parfum qui vous plonge dans un monde intemporel, où l'odeur des vieux livres et des pages reliées en cuir emplit l'air. Inspirée par la célèbre bougie Bibliothèque, cette Eau de Parfum transpose en parfum la richesse tactile des trésors littéraires. Elle s'ouvre sur la profondeur sucrée de la prune et l'épice chaude de la cannelle, pour dévoiler un cœur d'accord cuir et de violette, évoquant le parchemin vieilli et les couvertures de livres usées. Un fond de bois de bouleau, de patchouli et de vanille persiste, ajoutant chaleur et complexité à cette composition intemporelle et atmosphérique.",
+  "communaute": {
+    "note_globale": 3.7,
+    "nb_votes_total": 5122,
+    "appreciation": {
+      "adore": 1500, "apprecie": 1800, "neutre": 797,
+      "desagreable": 837, "deteste": 147
+    },
+    "tenue": {
+      "mediocre": 62, "faible": 220, "moderee": 936,
+      "longue": 656, "tres_longue": 143
+    },
+    "sillage": {
+      "discret": 305, "modere": 1200, "puissant": 477, "enorme": 144
+    },
+    "genre": {
+      "feminin": 395, "plutot_feminin": 567, "unisexe": 1000,
+      "plutot_masculin": 85, "masculin": 16
+    },
+    "saison": {
+      "hiver": 1300, "printemps": 796, "ete": 395,
+      "automne": 1800, "jour": 1300, "nuit": 935
+    },
+    "rapport_qualite_prix": {
+      "trop_cher": 303, "legerement_cher": 732, "prix_moyen": 545,
+      "bon_rapport": 72, "excellent_rapport": 25
+    },
+    "layering": {
+      "disponible": false,
+      "associations": []
+    },
+    "evocations": [
+      "belle prune sucrée",
+      "paquet de skittles",
+      "odeurs de vernis de parquet",
+      "vieilles bibliothèques des collèges anglais",
+      "parchemin vieilli et cuir ancien"
+    ],
+    "synthese_textuelle": "Très fruité et sucré en ouverture, certains le trouvent trop proche d'un bonbon. Le patchouli et le cuir ressortent en fond. Bonne tenue générale, sillage discret à modéré. Parfum qui divise — autant d'adorateurs que de déçus."
+  },
+  "boutiques_paris_propres": [
+    "Byredo Paris Saint-Honoré",
+    "Byredo Paris Galeries Lafayette",
+    "Byredo Paris Le Bon Marché",
+    "Byredo Paris Le Marais"
+  ],
+  "liens": {
+    "fragrantica": "https://www.fragrantica.fr/parfum/Byredo/Bibliotheque-43324.html",
+    "site_officiel": "https://www.byredo.com/eu_fr/p/bibliotheque-eau-de-parfum"
+  },
+  "tags": ["boisé", "fruité", "cuir", "automne", "hiver", "unisexe"]
+}

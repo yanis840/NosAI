@@ -1,0 +1,13 @@
+[
+  {"nom": "Jovoy Paris", "adresse": "4 rue de Castiglione, 75001", "type": "multimarques niche", "arrondissement": "1er", "site": "jovoyparis.com"},
+  {"nom": "Nose Paris", "adresse": "20 rue Bachaumont, 75002", "type": "multimarques niche", "arrondissement": "2ème", "site": "noseparis.com"},
+  {"nom": "Sayhar Parfums", "adresse": "27 rue de Marignan, 75008", "type": "multimarques niche luxe", "arrondissement": "8ème", "site": null},
+  {"nom": "Univers Parfumerie", "adresse": "30 rue d'Aboukir, 75002", "type": "multimarques niche", "arrondissement": "2ème", "site": null},
+  {"nom": "Fueguia 1833 Paris", "adresse": "60 rue François 1er, 75008", "type": "boutique en propre", "arrondissement": "8ème", "site": "fueguia.com"},
+  {"nom": "La Samaritaine", "adresse": "9 rue de la Monnaie, 75001", "type": "grand magasin luxe", "arrondissement": "1er", "site": "samaritaine.com"},
+  {"nom": "Galeries Lafayette", "adresse": "40 bd Haussmann, 75009", "type": "grand magasin", "arrondissement": "9ème", "site": "galerieslafayette.com"},
+  {"nom": "Le Bon Marché", "adresse": "24 rue de Sèvres, 75007", "type": "grand magasin premium", "arrondissement": "7ème", "site": "lebonmarche.com"},
+  {"nom": "Printemps Beauté", "adresse": "64 bd Haussmann, 75009", "type": "grand magasin", "arrondissement": "9ème", "site": "printemps.com"},
+  {"nom": "Odorare Villepinte", "adresse": "94 avenue du Général Leclerc, 93240 Villepinte", "type": "multimarques niche", "zone": "banlieue nord", "site": null},
+  {"nom": "Odorare Colombes", "adresse": "65 rue des Bourguignons, 92270 Colombes", "type": "multimarques niche", "zone": "banlieue ouest", "site": null}
+]

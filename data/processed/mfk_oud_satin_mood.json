@@ -1,0 +1,68 @@
+{
+  "maison": "Maison Francis Kurkdjian",
+  "parfum": "Oud Satin Mood",
+  "annee": null,
+  "format": "EDP",
+  "concentration": null,
+  "parfumeur": "Francis Kurkdjian",
+  "prix": {
+    "35ml": 165,
+    "70ml": 255,
+    "200ml": null
+  },
+  "famille_olfactive": "Oriental / Floral",
+  "notes": {
+    "tete": ["Rose de Bulgarie", "Violette", "Fraise"],
+    "coeur": ["Rose de Turquie"],
+    "fond": ["Oud", "Vanille", "Ambre", "Benjoin", "Caramel", "Cèdre"]
+  },
+  "description_marque": "Librement inspiré par le bois de oud, matière naturelle rare et précieuse, l'eau de parfum Oud Satin Mood traduit le désir de faire vivre un monde chatoyant. Le parfum floral ambré boisé évoque l'envie de s'enrouler pour se perdre dans la profondeur de l'instant et suspendre le temps. Transporté par la finesse de l'accord violette, le bois de oud se courbe au contact de l'essence et de l'absolue de rose Damascena avant de s'assouplir au contact d'un accord ambré vanillé onctueux.",
+  "communaute": {
+    "note_globale": 4.2,
+    "nb_votes_total": 9606,
+    "appreciation": {
+      "adore": 5300, "apprecie": 2300, "neutre": 808,
+      "desagreable": 846, "deteste": 3
+    },
+    "tenue": {
+      "mediocre": 79, "faible": 104, "moderee": 686,
+      "longue": 2100, "tres_longue": 2500
+    },
+    "sillage": {
+      "discret": 181, "modere": 1100, "puissant": 2800, "enorme": 1600
+    },
+    "genre": {
+      "feminin": 777, "plutot_feminin": 1200, "unisexe": 2600,
+      "plutot_masculin": 396, "masculin": 196
+    },
+    "saison": {
+      "hiver": 4400, "printemps": 1500, "ete": 611,
+      "automne": 3900, "jour": 1600, "nuit": 4100
+    },
+    "rapport_qualite_prix": {
+      "trop_cher": 873, "legerement_cher": 1700, "prix_moyen": 1400,
+      "bon_rapport": 264, "excellent_rapport": 108
+    },
+    "layering": {
+      "disponible": false,
+      "associations": []
+    },
+    "evocations": [
+      "Oud et rose parfaitement équilibrés",
+      "Pas trop sucré malgré la vanille",
+      "Ouverture poudrée et aristocratique",
+      "Fond vanillé caramélisé séquestré par le cèdre et l'ambre"
+    ],
+    "synthese_textuelle": "La rose et le oud sont très bien équilibrées. Une ouverture poudrée et aristocratique de violette et de roses massives qui contraste avec la brutalité sourde et sombre du oud. Le fond vanillé et caramélisé est séquestré par l'austérité du bois de cèdre et la densité de l'ambre."
+  },
+  "boutiques_paris_propres": [
+    "MFK 3 Rue d'Alger, 75001",
+    "MFK 24 Rue François 1er, 75008",
+    "MFK 7 Rue des Blancs Manteaux, 75004"
+  ],
+  "liens": {
+    "fragrantica": "https://www.fragrantica.fr/parfum/Maison-Francis-Kurkdjian/Oud-Satin-Mood-30352.html",
+    "site_officiel": "https://www.franciskurkdjian.com/eu-fr/p/oud-satin-mood-eau-de-parfum-RA12222.html"
+  },
+  "tags": ["oud", "rose", "vanille", "ambre", "boisé", "oriental"]
+}
